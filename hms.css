@@ -1,3 +1,6 @@
 table.question th.subheading {
   font-weight:bold;
 }
+
+td.itemtext input {margin:-2px 0 -2px 0;}
+table.question tr {height:31px;}
